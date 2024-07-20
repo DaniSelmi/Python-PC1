@@ -1,2 +1,2 @@
 # PythonPC2
-PC1 curso python
+PC2 curso python
