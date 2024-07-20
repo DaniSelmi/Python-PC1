@@ -1,2 +1,2 @@
-# Python-PC1
+# PythonPC2
 PC1 curso python
